@@ -1,2 +1,2 @@
 Gitignore and Github-API Using test <br>
-python ver : 2.27.1
+python ver : 3.8.10
